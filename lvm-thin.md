@@ -65,4 +65,4 @@ dir: salva
         maxfiles 4
         shared 0
         
-Finall
+Final
