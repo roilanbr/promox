@@ -17,12 +17,13 @@ $\color{#0ea5e9} \textsf{Información}:$
 # Índice
 * [Instalación de Proxmox VE](./page/instalacion_promox_ve.md)
 * [Eliminar partición local-LVM](./page/eliminar_particion_local-lvm.md)
-* [$\color{#FF6E6E} \textsf {Comandos básicos}$](./page/comados_basicos.md)
-* [$\color{#FF6E6E} \textsf {API de Proxmox}$](./page/api_de_promox.md)
+* [Comandos básicos](./page/comandos_basicos.md)
+* [`EDICION`  API de Proxmox](./page/api_de_proxmox.md)
 
 
 # Notas
 * Insertar imagen: `![promox logo](./media/proxmox.svg)`
-* Cambiar tamaño de la imagen: `<img src="./media/proxmox.svg" alt="promox logo" width="500" />`
+* Tamaño de la imagen fija: `<img src="./media/proxmox.svg" alt="promox logo" width="500" />`
+* Tamaño de la imagen relativa: `<img src="./media/proxmox.svg" alt="promox logo" style="width: 25%;" />`
 
 
